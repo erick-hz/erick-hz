@@ -15,7 +15,7 @@ You can ping me on these social networks:
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED2025?style=flat-square&logo=ORACLE&logoColor=white&color=ED2025)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
