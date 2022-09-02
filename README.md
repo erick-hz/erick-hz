@@ -1,24 +1,26 @@
-<!--
-**erick-hz/erick-hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fernando Acosta, I am 20 years old from Sonora, México.
 
-I'm a Web and Mobile App Developer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, I'm working as a Web and App Developer focused on building accessible, human-centered products. ⚡
+I'm currently a software engineer student at Instituto Tecnológico de Sonora. I speak Spanish and English. My main skills are Backend Development and a little bit of DevOps/SysAdmin.
 
-Languages
-JavaScript Python Kotlin
+You can ping me on these social networks:
+  
 
-Frameworks
-React-Native React JS Angular Django FastAPI  Bootstrap 
+Technologies
+DevOps
+Ubuntu Docker Arch
 
 Databases
-MySQL MongoDB SQLite Firebase
+Postgres MariaDB MySQL MongoDB SQLite Firebase
 
 Languages
-JavaScript Python TypeScript
+Python Java Kotlin HTML5 R JavaScript Arduino CSS3
 
 Tools
-VS Code PyCharm IntelliJ IDEA Android Studio Git GitHub  Postman
+VS Code PyCharm IntelliJ IDEA Android Studio Trello Git GitHub Apache Maven Gradle Postman
 
 Frameworks
-React-Native React JS Angular Django FastAPI  Bootstrap 
+Django DjangoREST FastAPI Jinja Bootstrap Code-Igniter
 
 (Left are the most used)
+<!--
+**erick-hz/erick-hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
