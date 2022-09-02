@@ -58,10 +58,3 @@ You can ping me on these social networks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white)
 
-##### (Left are the most used)
-
----
-
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FerAcoFajardo&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=feracofajardo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) |
-| - | - |
-</p>
