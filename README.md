@@ -1,11 +1,10 @@
 # Hello!!
 <div align="justify">
 
-I'm a Web and Mobile App Developer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, I'm working as a Web and App Developer. focused on building accessible, human-centered products.
-
+I'm a Web and Mobile App Developer who specializes in building (and occasionally designing) exceptional digital experiences.
 You can ping me on these social networks:  
 [![](https://img.shields.io/badge/-Molag🦖%231095-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/392560723580026882)
-[![](https://img.shields.io/badge/-Fernando_Acosta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Fernando-Acosta-Faja/)
+[![](https://img.shields.io/badge/-Erick-Hernandez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erick-hernandez-93361618b/)
 [![](https://img.shields.io/badge/-feraco2908@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:feraco2908@gmail.com)
 
 ## Technologies
