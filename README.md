@@ -2,6 +2,7 @@
 <div align="justify">
 
 I'm a Web and Mobile App Developer who specializes in building (and occasionally designing) exceptional digital experiences.
+
 You can ping me on these social networks:  
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 )](https://www.instagram.com/whooserick/?hl=en)
