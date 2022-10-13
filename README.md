@@ -1,4 +1,4 @@
-### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+### Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 <div align="justify">
 
 I'm a Web and Mobile App Developer who specializes in building (and occasionally designing) exceptional digital experiences.
