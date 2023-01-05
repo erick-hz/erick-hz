@@ -1,4 +1,4 @@
-| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Followers](https://img.shields.io/github/followers/erick-hz) | ![Stars](https://img.shields.io/github/stars/erick-hz?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | ![Stars](https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Followers](https://img.shields.io/github/followers/erick-hz) | ![Stars](https://img.shields.io/github/stars/erick-hz?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | [![wakatime](https://wakatime.com/badge/user/b8ede415-6acf-4bd7-af13-5e3ea5742c8a.svg)](https://wakatime.com/@yerick) |
 --| --| --| --|
 
 
