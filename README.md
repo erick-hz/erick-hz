@@ -49,5 +49,4 @@ You can ping me on these social networks:
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
   
-[![Diram Bora](<figure><embed src="https://wakatime.com/share/@yerick/b246f441-ebe4-4065-9ea4-36e488dd573c.svg"></embed></figure>]
 
