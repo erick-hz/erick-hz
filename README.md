@@ -6,7 +6,7 @@
 
 My name is Erick, I'm a Software Engineer who specializes in building (and occasionally designing) exceptional digital experiences.
 
-You can ping me on these social networks:  
+You can ping me on these social networks  
   
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 )](https://www.instagram.com/whooserick/?hl=en)
