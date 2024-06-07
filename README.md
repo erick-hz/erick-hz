@@ -14,7 +14,7 @@ My name is Erick, I'm a Software Engineer who specializes in building exceptiona
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erick-hz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-hz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo 
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=erick-hz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
