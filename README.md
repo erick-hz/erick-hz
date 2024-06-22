@@ -12,9 +12,6 @@ My name is Erick, I'm a Software Engineer who specializes in building exceptiona
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erick-hz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-hz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=erick-hz&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=erick-hz&icon=0&color=12)](https://visitcount.itsvg.in)
 
