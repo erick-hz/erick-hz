@@ -4,7 +4,7 @@
 ### Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 My name is Erick, I'm a Software Engineer who specializes in building exceptional digital experiences.
 
-## 🌐 Socials:
+## 🌐 You can ping me on these social networks:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whooserick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-hernandez-93361618b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yerickk8) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erick-hz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -13,5 +13,3 @@ My name is Erick, I'm a Software Engineer who specializes in building exceptiona
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erick-hz&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
