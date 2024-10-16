@@ -1,6 +1,6 @@
 | ![Diram Bora](https://img.shields.io/badge/Erick-hz-<COLOR>.svg) | ![Followers](https://img.shields.io/github/followers/erick-hz) | ![Stars](https://img.shields.io/github/stars/erick-hz?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | [![wakatime](https://wakatime.com/badge/user/b63c7abe-5ded-47c2-9ecb-11c90f0d158c.svg)](https://wakatime.com/@yerick) |
 --| --| --| --|
-## 👾 About Me:
+## 🦖 About Me:
 ### Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 My name is Erick, I'm a Software Engineer who specializes in building exceptional digital experiences.
 
